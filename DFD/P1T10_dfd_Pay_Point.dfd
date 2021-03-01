@@ -1,0 +1,68 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+162
+"SOFTPAYPOINT V 1.0 - MAKER: Jhoan Sebastian Cardenas - DESRIPTION: This software calculates the price of 4 products plus the VAT of the super market the paraiso"
+4
+1
+97
+"Welcome to supermarket paraís - please enter the price of your 1 product of your purchase below"
+5
+1
+10
+v_product1
+4
+1
+64
+"Please Enter the price of the 2 product of your purchase below"
+5
+1
+10
+v_product2
+4
+1
+65
+"Please enter the price of your 3 product of your purchase below"
+5
+1
+10
+v_product3
+4
+1
+65
+"Please enter the price of your 4 product of your purchase below"
+5
+1
+10
+v_product4
+7
+0
+1
+54
+ 50 >= v_product1+ v_product2+ v_product3+ v_product4 
+6
+2
+3
+SUM
+43
+v_product1+v_product2+v_product3+v_product4
+3
+IVA
+8
+SUM*1.19
+4
+1
+79
+"The total of your purchase with VAT is: " , IVA ,  " Thanks for your purchase"
+13
+4
+1
+86
+"ERR: these prices are not valid. Purchase prices must be greater than or equal to 50"
+13
+1
