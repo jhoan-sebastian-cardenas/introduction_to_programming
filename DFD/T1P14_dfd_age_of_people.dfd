@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+50
+"SOFTAGE OF PEOPLE MAKE: Jhoan Sebastian Cardenas"
+4
+1
+30
+"enter your age of the person"
+5
+1
+6
+v_agep
+7
+1
+1
+8
+v_agep>0
+7
+0
+1
+22
+v_agep>0 AND v_agep<12
+7
+0
+1
+24
+v_agep>=12 AND v_agep<18
+7
+0
+1
+24
+v_agep>=18 AND v_agep<45
+7
+0
+1
+24
+v_agep>=45 AND v_agep<90
+7
+0
+1
+25
+v_agep>=90 AND v_agep<960
+13
+4
+1
+18
+"Is in: Matusalen"
+13
+13
+4
+1
+20
+"IS in: Older Adult"
+13
+13
+4
+1
+15
+"Is in : Adult"
+13
+13
+4
+1
+20
+"Is in : Adolescent"
+13
+13
+4
+1
+14
+"Is in: Child"
+13
+13
+4
+1
+30
+"ERR: this age is not invalid"
+13
+1

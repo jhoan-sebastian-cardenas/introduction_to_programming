@@ -1,0 +1,107 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+51
+"SOFTNUMBERS-DAYS  MAKER: Jhoan Sebastian Cardenas"
+4
+1
+68
+"Enter a number from 1 to 7 to find out the day of the samena below"
+5
+1
+5
+V_DAY
+7
+1
+1
+23
+V_DAY>=1  AND  V_DAY<=7
+7
+0
+1
+7
+V_DAY=1
+7
+0
+1
+7
+V_DAY=2
+7
+0
+1
+7
+V_DAY=3
+7
+0
+1
+7
+V_DAY=4
+7
+0
+1
+7
+V_DAY=5
+7
+0
+1
+7
+V_DAY=6
+7
+0
+1
+7
+V_DAY=7
+13
+4
+1
+16
+"Day 7: Domingo"
+13
+13
+4
+1
+15
+"Day 6: Sabado"
+13
+13
+4
+1
+16
+"Day 5: Viernes"
+13
+13
+4
+1
+15
+"Day 4: Jueves"
+13
+13
+4
+1
+18
+"Day 3: Miercoles"
+13
+13
+4
+1
+15
+"Day 2: Martes"
+13
+13
+4
+1
+14
+"Day 1: Lunes"
+13
+13
+4
+1
+30
+"ERR:This number is not valid"
+13
+1
