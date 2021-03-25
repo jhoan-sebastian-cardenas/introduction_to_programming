@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+129
+"SOFTBIGGER NUMBER V_1.0  MAKER:jhoan sebastian cardenas DESCRIPTION: this serves to determine the number greater than 3 number" 
+4
+1
+26
+"please enter the numbers"
+5
+1
+20
+V_num1,v_num2,v_num3
+7
+0
+1
+31
+v_num1=v_num2 AND v_num1=v_num3
+7
+0
+1
+32
+v_num1>V_num2 and V_num1> v_num3
+7
+0
+1
+35
+v_num2>v_num1 AND v_num2 AND v_num3
+4
+1
+33
+"the number bigger is: " , v_num3
+13
+4
+1
+33
+"the number bigger is: " , v_num2
+13
+13
+4
+1
+33
+"the number bigger is: " , v_num1
+13
+13
+4
+1
+20
+"all 3 are the same"
+13
+1

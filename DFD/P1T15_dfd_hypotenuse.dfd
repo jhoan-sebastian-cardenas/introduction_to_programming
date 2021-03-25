@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+113
+"SOFTHYPOTENUSE V1.0 - MAKER: Jhoan Sebatian Cardenas - DECRIPTION: this sofware is for calculate the hypotenuse"
+4
+1
+43
+"please place how much is the opposite leg"
+5
+1
+9
+v_cateto1
+4
+1
+43
+"please place how much is the adjacent leg"
+5
+1
+9
+v_cateto2
+7
+0
+1
+28
+v_cateto1<=0 OR v_cateto2<=0
+6
+2
+5
+v_sum
+41
+v_cateto1*v_cateto1 + v_cateto2*v_cateto2
+6
+v_hypo
+11
+Sqrt(v_sum)
+4
+1
+48
+"the hypotenuse of right triangle is:  ", v_hypo
+13
+4
+1
+72
+"ERR: I'm sorry - you should not put a number less than 0 or equal to 0"
+13
+1

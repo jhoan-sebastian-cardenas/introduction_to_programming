@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+145
+"SOFT NUMBER EVERN OR ODD MAKE: Jhoan Sebastian Cadenas DESCRIPTION:this is to calculate what number is even and odd - Please only whole numbers"
+4
+1
+25
+"please input the number"
+5
+1
+5
+v_num
+7
+0
+1
+11
+v_num <= 0 
+6
+1
+7
+v_total
+11
+v_num mod 2
+7
+1
+1
+11
+v_total = 0
+4
+1
+34
+"the number " , v_num , " is even"
+13
+4
+1
+33
+"the number " , v_num , " is odd"
+13
+13
+4
+1
+52
+"ERR: the number must not be zero or less than zero"
+13
+1
