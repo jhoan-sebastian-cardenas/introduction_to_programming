@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2261c65b-0910-48e7-8094-744675d7ab85" name="Default Changelist" comment="" />
+    <list default="true" id="6c7e4488-6356-4524-bc29-f4646a9f4ada" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1qA0LWyk0w49HVen0MAq2hixkFa" />
+  <component name="ProjectId" id="1qFdaiegXp0xbF00m0kDKaPY15i" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -77,7 +77,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="usta.fis.Main" />
-      <module name="P1T38_SOFTWARE_CYCLE" />
+      <module name="P1T39_SAVED_MONEY" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -85,20 +85,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2261c65b-0910-48e7-8094-744675d7ab85" name="Default Changelist" comment="" />
-      <created>1616507035266</created>
+      <changelist id="6c7e4488-6356-4524-bc29-f4646a9f4ada" name="Default Changelist" comment="" />
+      <created>1616679352429</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1616507035266</updated>
+      <updated>1616679352429</updated>
     </task>
     <servers />
   </component>
